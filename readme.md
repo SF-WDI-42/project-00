@@ -47,8 +47,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### When is it due?
 
-* **Assigned:** Friday, Oct 6th
-* **Due:** Monday, Oct 9th @ 9:17am
+* **Assigned:** Wednesday, December 6
+* **Due:** Thursday, December 7 at 9:00 am
 
 ---
 
@@ -62,7 +62,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 * Abide by the **separation of concerns** principle with separate HTML, CSS, and JavaScript files
 * Leverage CSS styling for a pleasing and logical user experience
 * Stick with the **KISS** (Keep It Simple Stupid) and **DRY** (Don’t Repeat Yourself) principles
-* Include **a public Github repository** with frequent commits and descriptive commit messages!
+* Include **a public Github repository** with frequent commits and descriptive commit messages
 * Have useful documentation that you or other developers can reference later.
 
 ---
@@ -107,18 +107,10 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### How should I begin approaching this?
 
-#### If your instructor has provided a custom link to Github Classroom for this assignment:
-
-* Follow the link to the Github Classroom: https://classroom.github.com/a/7ayS6uY4
-* After creating the new repository, copy the link to it from the "Clone" menu on the top right side of the page.
-* **On your computer,** within the 'develop' folder, create a new repository using `git init`
-* Add a remote: `git remote add origin paste_the_link_to_the_repository_here`
+* Create a **NEW GitHub repository** from your GitHub account. Make sure to `git init` the new repo locally, and then follow the second set of instructions to link your local repo to the GitHub repo.
+* In the settings of your GitHub repo, enable GitHub Pages by building from the master branch. This will let us see your game online once you've pushed it to GitHub!
 * You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
 
-#### For all other submissions:
-
-* Create a **NEW GitHub repository** from your GitHub account. Make sure you're in your `develop` folder, and create the project locally. Follow the steps to `git init` the new repo.
-* You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
 
 ---
 
@@ -127,7 +119,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">the Project Submission doc</a>.
 
 ## Bonus
 
